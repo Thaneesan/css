@@ -1,0 +1,27 @@
+#thaneesan1{
+    border-radius: 25px;
+    background: lightblue;
+    padding: 20px;
+    width: 500px;
+    height: 350px;
+    float:center;
+    margin: 0 0 10px 10px;
+}
+#thaneesan2{
+    border-radius: 25px;
+    background: #7a7a52 ;
+    padding: 20px;
+    width: 500px;
+    height: 250px;
+    float: right;
+    margin: 0 0 10px 10px
+}
+#thaneesan3{
+    border-radius: 25px;
+    background: #7a7a52;
+    padding: 20px;
+    width: 500px;
+    height: 250px;
+    float: right;
+      margin: 0 0 10px 10px
+}
